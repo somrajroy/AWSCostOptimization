@@ -6,6 +6,7 @@ About Cost Optimization techniques in AWS Cloud. Cloud Cost Optimization. <br/>
 * Optimizing cloud costs isn't just about reducing costs; it's also about aligning costs with business goals. An increase in costs is not necessarily a problem if it's accompanied by an increase in revenue. One of the most important goals is to ensure that costs correlate with productive and profitable activities. <br/>
 * There are three fundamental drivers of cost with AWS which should be kept in mind while architecting solutions  : compute, storage, and outbound data transfer. <br/>
 * [Generic AWS Guidance on cost optimization](https://aws.amazon.com/aws-cost-management/aws-cost-optimization/)<br/>
+* [5 Design Principles for cost optimization in the cloud](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.costOptimization.en.html). </br>
 * [AWS Cost Calculation example](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/cost-calculation-examples.html) are is a good place to start. It is essential to measure the benefit/efficiency of a workload by business to justify the costs associated with it. <br/>
 * Leverage Automation in Cloud : Automation enhances system productivity, improves performance, and reduces costs. Apply where ever possible. For example having a [snapshot lifecycle management](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html) or [automating AMI creations](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-systems-manager-ami-automation/). <br/>
 * Upgrade instances to latest generation : They typically provide higher efficiency or better performance at a lower price. When AWS releases a new generation of instances, they tend to have improved performance and functionality compared to their predecessors. This means customers can either upgrade existing instances to the latest generation, or downsize existing instances with borderline utilization metrics in order to benefit from the same level of performance at lower cost.<br/>
@@ -43,6 +44,5 @@ About Cost Optimization techniques in AWS Cloud. Cloud Cost Optimization. <br/>
 ## Further References <br/>
 * [How do I estimate the cost of my planned AWS resource configurations?](https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/)<br/>
 * [Key Principles : Fundamentals of AWS Pricing](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/key-principles.html)<br/>
-* [AWS Cost Optimization - AWS Well-architected framework](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.costOptimization.en.html)<br/>
 * [ICYMI: Re-architect for cost optimization, automate optimization, and cost saving opportunities during migrations](https://aws.amazon.com/blogs/aws-cloud-financial-management/icymi-re-architect-for-cost-optimization-automate-optimization-and-cost-saving-opportunities-during-migrations/)<br/>
 
