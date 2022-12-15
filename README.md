@@ -33,8 +33,8 @@ About Cost Optimization techniques in AWS Cloud. Cloud Cost Optimization. <br/>
    * Amazon S3 Intelligent-Tiering : Delivers automatic cost savings on S3 service by moving data between two access tiers: frequent access and infrequent access.<br/>
    * [AWS Auto Scaling](https://aws.amazon.com/autoscaling/) : Monitors applications and automatically adjusts resource capacity to maintain steady and predictable performance at the lowest possible cost. <br/>
    * [AWS Cost and Usage Report](https://docs.aws.amazon.com/cur/latest/userguide/what-is-cur.html) : After set-up, everyone can receive hourly, daily or monthly reports that break out of costs by product or resource and by tags that was defined . These report files are delivered to Amazon S3 bucket. <br/>
-   * AWS Compute Optimizer : Recommends optimal AWS resources for your workloads to reduce costs and improve performance by using machine learning. AWS Compute Optimizer analyzes resource utilization to identify AWS resources, such as Amazon EC2 instances, Amazon EBS volumes, and AWS Lambda functions, that might be under-provisioned or over-provisioned.<br/>
-   * AWS Instance Scheduler : This is a simple service that enables customers to easily configure custom start and stop schedules for their Amazon EC2 and Amazon RDS instances. <br/>
+   * [AWS Compute Optimizer](https://aws.amazon.com/compute-optimizer/) : Recommends optimal AWS resources for your workloads to reduce costs and improve performance by using machine learning. AWS Compute Optimizer analyzes resource utilization to identify AWS resources, such as Amazon EC2 instances, Amazon EBS volumes, and AWS Lambda functions, that might be under-provisioned or over-provisioned.<br/>
+   * [AWS Instance Scheduler](https://docs.aws.amazon.com/solutions/latest/instance-scheduler-on-aws/welcome.html) : This is a simple service that enables customers to easily configure custom start and stop schedules for their Amazon EC2 and Amazon RDS instances. <br/>
 
 
 ## Further References <br/>
