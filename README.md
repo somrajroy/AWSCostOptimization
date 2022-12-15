@@ -37,3 +37,4 @@ About Cost Optimization techniques in AWS Cloud. Cloud Cost Optimization. <br/>
 * [How do I estimate the cost of my planned AWS resource configurations?](https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/)<br/>
 * [Key Principles : Fundamentals of AWS Pricing](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/key-principles.html)<br/>
 * [AWS Cost Optimization - AWS Well-architected framework](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.costOptimization.en.html)<br/>
+* [Optimize and Save your IT costs.AWS Cost Optimization Best Practices](https://aws.amazon.com/aws-cost-management/aws-cost-optimization/)<br/>
