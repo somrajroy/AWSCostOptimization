@@ -48,4 +48,5 @@ About Cost Optimization techniques in AWS Cloud. Cloud Cost Optimization. <br/>
 * [How do I estimate the cost of my planned AWS resource configurations?](https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/)<br/>
 * [Key Principles : Fundamentals of AWS Pricing](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/key-principles.html)<br/>
 * [ICYMI: Re-architect for cost optimization, automate optimization, and cost saving opportunities during migrations](https://aws.amazon.com/blogs/aws-cloud-financial-management/icymi-re-architect-for-cost-optimization-automate-optimization-and-cost-saving-opportunities-during-migrations/)<br/>
+* [10 things you can do today to reduce AWS costs](https://aws.amazon.com/blogs/compute/10-things-you-can-do-today-to-reduce-aws-costs/)<br/>
 
